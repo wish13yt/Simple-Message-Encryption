@@ -1,7 +1,4 @@
 from cryptography.fernet import Fernet
-import random
-import string
-import base64
 
 print("so like this uses fernet and stuff and idk how secure that is so use something better for important stuff please")
 ferpub_string = input("whats your public key? ")
